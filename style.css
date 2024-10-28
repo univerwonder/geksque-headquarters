@@ -1,0 +1,15 @@
+body{
+    background: rgba(0, 0, 133, 0.685);
+}
+
+.title{
+    color:rgb(255, 0, 0)    
+}
+
+.top-menu{
+    display: flex;
+    gap: 30px;
+    .list-menu a{
+        color: aquamarine;
+    }
+}
